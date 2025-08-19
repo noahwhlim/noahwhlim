@@ -34,6 +34,10 @@
 
 ###
 
+<p align="center">Cat</p>
+
+###
+
 <div align="center">
   <img height="300" src="https://github.com/noahwhlim/noahwhlim/blob/main/cat.jpg"  />
 </div>
